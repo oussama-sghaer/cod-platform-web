@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Claude / planning docs
+CLAUDE.md
+AGENTS.md
+docs/
